@@ -1,0 +1,101 @@
+patient_id,age,gender,stress_level,anxiety_level,depression_score,maslow_physiological,maslow_safety,maslow_social,maslow_esteem,maslow_self_actualization,sleep_hours,exercise_frequency,diet_type,caffeine_intake,screen_time_hours,prakriti,vikriti,herbs,diet_advice,lifestyle_advice,duration_days,side_effects
+P362,40,Female,2,5,10,1,6,1,7,7,3,0,Spicy,5,3,Pitta-Kapha,Pitta Aggravation,"['Brahmi', 'Ashwagandha']",Balanced diet,"Meditation, Pranayama, Early Sleep",21,False
+P074,66,Male,7,5,0,7,4,3,6,1,8,1,Spicy,4,6,Vata-Kapha,Balanced,"['Brahmi', 'Jatamansi']",Balanced diet,"Meditation, Pranayama, Early Sleep",15,True
+P375,42,Male,10,4,0,9,10,5,9,1,8,4,Spicy,5,8,Pitta,Vata Aggravation,"['Amalaki', 'Shatavari']",Balanced diet,"Daily Walk, Mindfulness",15,True
+P156,58,Other,2,9,0,1,6,3,6,3,3,3,Light,0,4,Pitta,Kapha Aggravation,"['Triphala', 'Guduchi']",Balanced diet,"Pranayama, Meditation",28,True
+P105,52,Male,9,9,5,5,6,6,10,7,9,0,Light,5,3,Pitta-Kapha,Balanced,"['Triphala', 'Guduchi']","Light diet, avoid fried foods","Meditation, Pranayama, Early Sleep",21,True
+P395,29,Female,5,7,1,1,1,10,2,8,6,4,Spicy,4,4,Vata-Kapha,Kapha Aggravation,"['Triphala', 'Guduchi']","Cooling foods, avoid spicy","Daily Walk, Mindfulness",21,False
+P378,57,Female,2,8,0,5,2,10,7,1,6,5,Light,1,2,Pitta-Kapha,Kapha Aggravation,"['Amalaki', 'Shatavari']","Warm milk, early dinner","Pranayama, Meditation",14,True
+P125,39,Female,1,3,10,10,3,4,1,1,4,1,Spicy,2,6,Vata-Kapha,Kapha Aggravation,"['Ashwagandha', 'Guduchi']","Light diet, avoid fried foods","Daily Walk, Mindfulness",21,True
+P069,43,Other,5,10,2,5,6,4,1,7,4,1,Balanced,1,5,Pitta-Kapha,Vata Aggravation,"['Brahmi', 'Jatamansi']","Cooling foods, avoid spicy","Yoga, Routine Sleep",28,True
+P451,49,Male,10,7,9,1,7,2,4,8,6,2,Light,3,8,Pitta-Kapha,Pitta Aggravation,"['Brahmi', 'Jatamansi']","Warm milk, early dinner","Pranayama, Meditation",14,False
+P010,22,Female,8,4,4,10,5,9,1,3,4,1,Spicy,3,9,Kapha,Pitta Aggravation,"['Brahmi', 'Jatamansi']","Light diet, avoid fried foods","Pranayama, Meditation",15,True
+P195,60,Male,8,9,3,1,3,4,10,10,6,2,Balanced,2,4,Pitta,Vata Aggravation,"['Triphala', 'Guduchi']","Light diet, avoid fried foods","Pranayama, Meditation",28,True
+P407,20,Female,2,9,9,5,9,7,4,1,3,6,Balanced,3,2,Vata-Kapha,Kapha Aggravation,"['Brahmi', 'Ashwagandha']",Balanced diet,"Pranayama, Meditation",21,True
+P085,70,Male,7,3,6,8,3,9,5,8,4,7,Balanced,0,3,Vata-Pitta,Balanced,"['Amalaki', 'Shatavari']","Light diet, avoid fried foods","Pranayama, Meditation",14,False
+P372,63,Female,5,6,10,9,2,8,1,8,7,4,Light,3,10,Vata-Kapha,Balanced,"['Ashwagandha', 'Guduchi']","Light diet, avoid fried foods","Pranayama, Meditation",15,False
+P389,30,Female,8,6,9,8,6,3,9,4,4,0,Balanced,3,8,Pitta,Kapha Aggravation,"['Triphala', 'Guduchi']","Light diet, avoid fried foods","Meditation, Pranayama, Early Sleep",21,False
+P496,30,Female,8,10,1,4,5,6,7,6,6,6,Light,0,8,Vata,Pitta Aggravation,"['Brahmi', 'Jatamansi']","Light diet, avoid fried foods","Pranayama, Meditation",28,True
+P031,49,Female,7,10,6,7,4,1,5,6,4,4,Spicy,0,8,Vata-Kapha,Pitta Aggravation,"['Ashwagandha', 'Guduchi']",Balanced diet,"Daily Walk, Mindfulness",21,True
+P317,31,Male,8,6,5,4,8,5,1,7,8,6,Balanced,1,5,Pitta,Pitta Aggravation,"['Amalaki', 'Shatavari']",Balanced diet,"Yoga, Routine Sleep",15,True
+P409,58,Female,10,6,5,3,1,1,8,7,3,5,Balanced,5,8,Vata-Kapha,Balanced,"['Triphala', 'Guduchi']","Cooling foods, avoid spicy","Yoga, Routine Sleep",21,False
+P491,64,Female,4,6,4,1,10,7,4,7,8,1,Light,2,10,Pitta,Balanced,"['Triphala', 'Guduchi']","Cooling foods, avoid spicy","Yoga, Routine Sleep",14,False
+P492,54,Other,9,7,1,7,4,2,7,4,7,5,Light,3,5,Vata,Pitta Aggravation,"['Ashwagandha', 'Guduchi']","Cooling foods, avoid spicy","Pranayama, Meditation",21,True
+P281,22,Male,9,6,7,9,8,1,3,8,5,7,Balanced,2,2,Vata-Pitta,Balanced,"['Brahmi', 'Ashwagandha']","Light diet, avoid fried foods","Meditation, Pranayama, Early Sleep",21,True
+P357,36,Other,1,6,10,2,9,9,1,4,3,1,Balanced,3,8,Pitta-Kapha,Kapha Aggravation,"['Brahmi', 'Jatamansi']",Balanced diet,"Yoga, Routine Sleep",15,True
+P077,38,Female,2,1,5,10,5,6,4,9,6,5,Light,2,7,Vata,Balanced,"['Ashwagandha', 'Guduchi']","Light diet, avoid fried foods","Pranayama, Meditation",15,False
+P462,56,Other,8,9,10,5,1,9,2,8,7,4,Spicy,5,7,Vata-Pitta,Balanced,"['Ashwagandha', 'Guduchi']",Balanced diet,"Yoga, Routine Sleep",15,False
+P498,57,Female,6,4,10,9,4,7,2,6,4,6,Light,5,4,Vata,Balanced,"['Ashwagandha', 'Guduchi']","Warm milk, early dinner","Yoga, Routine Sleep",14,False
+P212,38,Other,9,6,1,3,9,10,1,3,8,3,Light,0,6,Kapha,Pitta Aggravation,"['Triphala', 'Guduchi']","Light diet, avoid fried foods","Pranayama, Meditation",28,True
+P102,25,Female,3,4,10,2,3,4,9,7,5,1,Light,4,8,Vata-Kapha,Kapha Aggravation,"['Triphala', 'Guduchi']","Light diet, avoid fried foods","Meditation, Pranayama, Early Sleep",14,False
+P335,19,Male,9,4,7,4,1,10,5,5,7,1,Spicy,5,5,Vata-Kapha,Balanced,"['Amalaki', 'Shatavari']","Light diet, avoid fried foods","Pranayama, Meditation",21,True
+P476,28,Female,7,8,6,10,1,1,10,1,4,1,Light,5,8,Pitta-Kapha,Kapha Aggravation,"['Ashwagandha', 'Guduchi']","Cooling foods, avoid spicy","Pranayama, Meditation",21,False
+P337,69,Male,2,6,6,8,6,10,3,5,3,0,Light,4,9,Pitta-Kapha,Vata Aggravation,"['Brahmi', 'Ashwagandha']",Balanced diet,"Meditation, Pranayama, Early Sleep",28,True
+P441,45,Other,3,3,7,3,10,6,10,9,3,4,Spicy,1,7,Pitta,Pitta Aggravation,"['Ashwagandha', 'Guduchi']","Light diet, avoid fried foods","Pranayama, Meditation",15,False
+P174,21,Other,4,10,9,3,10,1,8,9,8,7,Light,1,9,Vata-Kapha,Balanced,"['Brahmi', 'Jatamansi']","Light diet, avoid fried foods","Yoga, Routine Sleep",28,True
+P003,32,Female,4,1,6,10,9,10,2,10,5,5,Spicy,1,10,Pitta-Kapha,Vata Aggravation,"['Ashwagandha', 'Guduchi']","Cooling foods, avoid spicy","Pranayama, Meditation",14,False
+P334,32,Male,5,6,0,3,4,8,7,1,6,0,Balanced,2,9,Vata-Pitta,Balanced,"['Brahmi', 'Jatamansi']","Warm milk, early dinner","Pranayama, Meditation",14,True
+P410,58,Other,1,6,9,1,9,5,4,10,6,6,Balanced,2,9,Vata,Kapha Aggravation,"['Amalaki', 'Shatavari']","Warm milk, early dinner","Yoga, Routine Sleep",28,False
+P071,42,Female,9,10,8,2,1,6,7,2,6,2,Spicy,3,5,Kapha,Vata Aggravation,"['Triphala', 'Guduchi']","Warm milk, early dinner","Yoga, Routine Sleep",14,True
+P210,50,Male,2,8,8,1,1,7,8,3,5,0,Balanced,0,2,Pitta,Balanced,"['Amalaki', 'Shatavari']","Light diet, avoid fried foods","Meditation, Pranayama, Early Sleep",14,True
+P064,41,Other,8,6,6,2,9,3,8,7,3,0,Light,5,4,Vata-Pitta,Balanced,"['Amalaki', 'Shatavari']","Light diet, avoid fried foods","Meditation, Pranayama, Early Sleep",15,False
+P385,63,Female,10,6,8,7,4,8,9,5,7,1,Light,5,2,Vata,Pitta Aggravation,"['Brahmi', 'Ashwagandha']","Cooling foods, avoid spicy","Daily Walk, Mindfulness",14,True
+P094,51,Other,2,2,6,9,5,7,3,2,9,0,Light,4,3,Vata-Kapha,Kapha Aggravation,"['Brahmi', 'Ashwagandha']","Light diet, avoid fried foods","Daily Walk, Mindfulness",15,True
+P486,59,Other,5,3,5,1,9,1,7,8,7,6,Spicy,1,4,Kapha,Balanced,"['Amalaki', 'Shatavari']","Light diet, avoid fried foods","Daily Walk, Mindfulness",21,True
+P186,40,Female,10,9,5,4,4,8,6,2,7,6,Light,1,2,Vata-Pitta,Vata Aggravation,"['Triphala', 'Guduchi']",Balanced diet,"Daily Walk, Mindfulness",21,False
+P034,43,Other,7,4,0,8,4,8,7,8,7,0,Spicy,1,9,Vata,Vata Aggravation,"['Triphala', 'Guduchi']","Warm milk, early dinner","Meditation, Pranayama, Early Sleep",28,True
+P078,42,Male,4,10,4,2,2,8,1,4,5,3,Balanced,4,3,Vata-Kapha,Pitta Aggravation,"['Triphala', 'Guduchi']",Balanced diet,"Meditation, Pranayama, Early Sleep",21,True
+P001,37,Female,9,10,4,8,9,2,10,4,9,4,Balanced,0,4,Pitta,Vata Aggravation,"['Ashwagandha', 'Guduchi']","Light diet, avoid fried foods","Meditation, Pranayama, Early Sleep",14,True
+P012,19,Male,2,7,9,1,8,9,2,10,4,3,Spicy,4,9,Vata-Kapha,Vata Aggravation,"['Ashwagandha', 'Guduchi']","Cooling foods, avoid spicy","Meditation, Pranayama, Early Sleep",21,True
+P416,42,Female,7,1,4,1,3,5,10,10,7,2,Balanced,3,10,Vata,Pitta Aggravation,"['Triphala', 'Guduchi']","Cooling foods, avoid spicy","Daily Walk, Mindfulness",28,False
+P023,61,Other,4,7,4,9,9,5,9,5,6,3,Light,2,10,Vata,Kapha Aggravation,"['Amalaki', 'Shatavari']","Cooling foods, avoid spicy","Pranayama, Meditation",21,True
+P073,53,Other,6,8,8,6,5,7,5,1,9,6,Spicy,3,6,Kapha,Balanced,"['Ashwagandha', 'Guduchi']",Balanced diet,"Yoga, Routine Sleep",15,True
+P183,32,Male,1,1,2,8,1,7,9,2,4,1,Light,5,7,Vata-Pitta,Vata Aggravation,"['Ashwagandha', 'Guduchi']",Balanced diet,"Meditation, Pranayama, Early Sleep",28,True
+P132,45,Other,4,2,9,8,3,5,4,6,5,4,Spicy,5,6,Pitta-Kapha,Vata Aggravation,"['Brahmi', 'Jatamansi']","Warm milk, early dinner","Pranayama, Meditation",28,True
+P411,60,Female,5,10,10,8,10,8,10,2,7,3,Light,3,3,Vata-Pitta,Vata Aggravation,"['Amalaki', 'Shatavari']","Light diet, avoid fried foods","Daily Walk, Mindfulness",21,False
+P194,23,Male,7,1,2,10,8,9,6,4,7,0,Light,2,7,Pitta,Kapha Aggravation,"['Brahmi', 'Jatamansi']",Balanced diet,"Daily Walk, Mindfulness",14,True
+P056,38,Male,10,5,2,2,9,9,9,1,6,2,Light,1,7,Vata-Pitta,Balanced,"['Amalaki', 'Shatavari']","Warm milk, early dinner","Meditation, Pranayama, Early Sleep",15,True
+P149,42,Male,4,10,3,4,3,1,9,10,6,2,Spicy,0,6,Vata-Kapha,Vata Aggravation,"['Brahmi', 'Jatamansi']",Balanced diet,"Daily Walk, Mindfulness",14,False
+P019,55,Male,8,2,0,7,7,3,8,3,9,1,Spicy,1,2,Vata-Kapha,Kapha Aggravation,"['Ashwagandha', 'Guduchi']",Balanced diet,"Yoga, Routine Sleep",21,False
+P205,65,Male,4,8,10,8,7,2,6,4,6,6,Balanced,3,5,Pitta-Kapha,Kapha Aggravation,"['Ashwagandha', 'Guduchi']","Warm milk, early dinner","Meditation, Pranayama, Early Sleep",28,True
+P079,70,Other,9,8,10,3,3,5,7,3,7,2,Spicy,4,5,Pitta-Kapha,Balanced,"['Ashwagandha', 'Guduchi']","Warm milk, early dinner","Pranayama, Meditation",28,True
+P495,66,Male,9,1,5,8,8,9,9,2,3,2,Spicy,2,3,Pitta,Balanced,"['Amalaki', 'Shatavari']",Balanced diet,"Daily Walk, Mindfulness",15,False
+P263,45,Other,2,10,4,3,10,7,3,6,3,3,Spicy,3,5,Pitta,Pitta Aggravation,"['Triphala', 'Guduchi']",Balanced diet,"Pranayama, Meditation",14,False
+P324,45,Female,2,9,9,6,2,7,7,4,9,1,Light,5,2,Vata-Pitta,Pitta Aggravation,"['Brahmi', 'Ashwagandha']","Cooling foods, avoid spicy","Pranayama, Meditation",21,False
+P484,20,Male,9,6,10,3,7,10,4,3,5,3,Spicy,4,5,Pitta,Balanced,"['Brahmi', 'Ashwagandha']","Cooling foods, avoid spicy","Daily Walk, Mindfulness",21,False
+P080,40,Other,9,1,7,10,4,10,7,3,8,6,Light,4,5,Pitta,Kapha Aggravation,"['Brahmi', 'Jatamansi']","Warm milk, early dinner","Daily Walk, Mindfulness",21,False
+P040,51,Other,3,4,0,8,2,7,10,5,7,7,Light,4,8,Pitta-Kapha,Balanced,"['Brahmi', 'Ashwagandha']",Balanced diet,"Meditation, Pranayama, Early Sleep",14,False
+P452,48,Male,6,3,0,7,2,1,3,9,5,6,Spicy,4,10,Vata,Pitta Aggravation,"['Brahmi', 'Ashwagandha']","Warm milk, early dinner","Daily Walk, Mindfulness",15,False
+P047,50,Male,9,2,2,4,7,8,5,3,9,1,Balanced,0,8,Pitta,Vata Aggravation,"['Brahmi', 'Ashwagandha']","Cooling foods, avoid spicy","Meditation, Pranayama, Early Sleep",21,True
+P239,50,Male,7,5,6,8,10,4,1,5,4,7,Balanced,1,2,Pitta-Kapha,Balanced,"['Ashwagandha', 'Guduchi']","Light diet, avoid fried foods","Daily Walk, Mindfulness",15,True
+P392,60,Other,6,9,6,8,6,5,7,6,8,3,Spicy,1,3,Vata-Pitta,Vata Aggravation,"['Ashwagandha', 'Guduchi']","Light diet, avoid fried foods","Daily Walk, Mindfulness",21,True
+P353,63,Male,9,5,6,4,10,10,4,6,4,0,Spicy,4,5,Vata-Pitta,Kapha Aggravation,"['Triphala', 'Guduchi']","Light diet, avoid fried foods","Daily Walk, Mindfulness",21,False
+P342,63,Other,8,3,9,3,10,8,8,5,6,2,Spicy,2,3,Vata,Pitta Aggravation,"['Amalaki', 'Shatavari']","Cooling foods, avoid spicy","Yoga, Routine Sleep",15,False
+P278,30,Other,5,3,1,1,9,2,8,5,7,2,Spicy,3,4,Pitta-Kapha,Balanced,"['Brahmi', 'Jatamansi']","Cooling foods, avoid spicy","Yoga, Routine Sleep",28,True
+P291,18,Male,5,1,1,7,9,5,9,7,5,3,Spicy,4,4,Vata-Kapha,Vata Aggravation,"['Brahmi', 'Ashwagandha']","Light diet, avoid fried foods","Pranayama, Meditation",14,True
+P318,62,Female,8,6,6,2,8,7,5,1,9,0,Spicy,4,8,Kapha,Pitta Aggravation,"['Ashwagandha', 'Guduchi']","Warm milk, early dinner","Meditation, Pranayama, Early Sleep",15,False
+P305,19,Female,7,1,3,2,9,8,1,10,6,0,Balanced,0,9,Kapha,Vata Aggravation,"['Amalaki', 'Shatavari']","Warm milk, early dinner","Meditation, Pranayama, Early Sleep",28,True
+P269,22,Female,7,3,6,3,4,5,2,1,9,5,Light,2,2,Vata-Pitta,Vata Aggravation,"['Brahmi', 'Ashwagandha']","Warm milk, early dinner","Yoga, Routine Sleep",21,True
+P070,23,Male,9,2,0,1,1,10,7,9,3,3,Balanced,1,4,Pitta-Kapha,Pitta Aggravation,"['Ashwagandha', 'Guduchi']","Cooling foods, avoid spicy","Meditation, Pranayama, Early Sleep",28,False
+P456,60,Male,5,5,5,4,6,7,2,8,4,5,Spicy,2,7,Kapha,Kapha Aggravation,"['Triphala', 'Guduchi']",Balanced diet,"Meditation, Pranayama, Early Sleep",21,True
+P466,20,Male,6,9,3,1,3,2,2,5,6,0,Balanced,4,6,Vata-Kapha,Vata Aggravation,"['Brahmi', 'Jatamansi']","Cooling foods, avoid spicy","Daily Walk, Mindfulness",21,False
+P155,38,Male,7,6,8,5,2,2,6,4,7,5,Light,0,3,Pitta,Kapha Aggravation,"['Brahmi', 'Jatamansi']","Warm milk, early dinner","Daily Walk, Mindfulness",15,True
+P083,26,Female,10,1,4,6,6,10,6,6,4,2,Light,3,6,Pitta-Kapha,Balanced,"['Amalaki', 'Shatavari']",Balanced diet,"Meditation, Pranayama, Early Sleep",28,False
+P478,66,Other,6,6,2,8,5,3,7,1,4,6,Balanced,5,10,Vata-Kapha,Vata Aggravation,"['Triphala', 'Guduchi']","Cooling foods, avoid spicy","Pranayama, Meditation",21,False
+P173,39,Female,6,5,4,4,3,10,10,7,6,2,Light,3,6,Vata,Kapha Aggravation,"['Ashwagandha', 'Guduchi']","Light diet, avoid fried foods","Yoga, Routine Sleep",28,False
+P322,70,Female,7,4,4,8,5,7,9,3,8,3,Balanced,1,8,Vata,Balanced,"['Brahmi', 'Ashwagandha']","Warm milk, early dinner","Daily Walk, Mindfulness",28,False
+P091,70,Other,4,6,5,10,4,7,9,10,9,3,Balanced,5,8,Vata-Kapha,Kapha Aggravation,"['Brahmi', 'Ashwagandha']","Light diet, avoid fried foods","Pranayama, Meditation",15,True
+P181,29,Other,10,6,0,6,8,5,4,3,8,5,Balanced,4,3,Vata-Pitta,Vata Aggravation,"['Brahmi', 'Ashwagandha']","Light diet, avoid fried foods","Pranayama, Meditation",28,True
+P415,35,Other,1,6,6,4,2,10,10,3,9,1,Spicy,5,8,Vata-Kapha,Balanced,"['Ashwagandha', 'Guduchi']","Light diet, avoid fried foods","Yoga, Routine Sleep",28,True
+P313,52,Female,5,2,8,7,1,7,2,4,4,2,Light,4,6,Pitta,Kapha Aggravation,"['Triphala', 'Guduchi']",Balanced diet,"Yoga, Routine Sleep",15,False
+P279,20,Male,6,8,5,3,7,2,3,7,7,5,Light,3,8,Vata-Pitta,Vata Aggravation,"['Triphala', 'Guduchi']",Balanced diet,"Daily Walk, Mindfulness",14,False
+P382,48,Female,3,2,5,6,9,8,10,8,9,5,Light,0,4,Pitta,Balanced,"['Amalaki', 'Shatavari']","Warm milk, early dinner","Pranayama, Meditation",14,False
+P473,52,Female,3,7,9,4,9,8,2,5,7,1,Light,2,7,Vata-Pitta,Balanced,"['Brahmi', 'Ashwagandha']","Warm milk, early dinner","Yoga, Routine Sleep",14,True
+P363,39,Female,9,8,7,8,5,4,3,3,9,2,Spicy,1,3,Kapha,Balanced,"['Amalaki', 'Shatavari']",Balanced diet,"Meditation, Pranayama, Early Sleep",15,False
+P325,45,Female,4,6,10,2,1,7,10,7,3,0,Light,5,7,Vata,Vata Aggravation,"['Brahmi', 'Jatamansi']",Balanced diet,"Meditation, Pranayama, Early Sleep",28,False
+P432,58,Female,10,4,6,4,10,9,8,9,9,0,Light,2,10,Pitta-Kapha,Vata Aggravation,"['Brahmi', 'Jatamansi']",Balanced diet,"Yoga, Routine Sleep",28,False
+P348,63,Female,10,1,0,3,7,2,1,4,9,7,Light,0,6,Vata-Kapha,Pitta Aggravation,"['Triphala', 'Guduchi']","Cooling foods, avoid spicy","Yoga, Routine Sleep",15,True
+P087,39,Male,7,5,6,10,7,4,6,3,4,0,Light,2,10,Vata-Kapha,Kapha Aggravation,"['Brahmi', 'Ashwagandha']","Cooling foods, avoid spicy","Meditation, Pranayama, Early Sleep",15,False
+P076,18,Other,8,8,2,5,1,10,1,3,3,3,Light,2,5,Vata,Pitta Aggravation,"['Triphala', 'Guduchi']","Light diet, avoid fried foods","Meditation, Pranayama, Early Sleep",15,False
+P439,25,Other,6,1,8,6,3,1,10,8,4,6,Light,4,8,Vata,Balanced,"['Brahmi', 'Ashwagandha']","Light diet, avoid fried foods","Yoga, Routine Sleep",21,True
+P016,32,Female,9,4,9,3,6,2,7,9,4,3,Light,3,9,Vata,Kapha Aggravation,"['Triphala', 'Guduchi']","Light diet, avoid fried foods","Daily Walk, Mindfulness",21,True
